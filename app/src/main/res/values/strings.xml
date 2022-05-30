@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practical02</string>
+    <string-array name="information_types">
+        <item>eur</item>
+        <item>usd</item>
+    </string-array>
+</resources>
